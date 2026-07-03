@@ -1,0 +1,41 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.cache
+*.ilk
+*.pdb
+*.ipdb
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+# Microsoft Azure build output
+csx/
+*.build.csdef
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.tmp
+*.temp
